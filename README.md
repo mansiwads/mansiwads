@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mansi Wadhwa</h1>
 <h3 align="center">A passionate Data Analyst from Mumbai</h3>
 
-- 🔭 I’m currently working on [RAG Enhanced Multimodal AI for first aid](https://github.com/mansiwads/multimodalRAG)
+- 🔭 I’m currently working on [Multimodal Agentic AI for first aid](https://github.com/mansiwads/multimodalRAG)
 
 - 🌱 I’m currently learning **DevOps**
 
